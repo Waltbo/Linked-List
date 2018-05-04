@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Goat/COMP280/spring-2018-program-3-linked-list-Waltbo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Goat/COMP280/spring-2018-program-3-linked-list-Waltbo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Goat/COMP280/spring-2018-program-3-linked-list-Waltbo/cmake-build-debug/CMakeFiles/spring_2018_program_3_linked_list_Waltbo.dir
